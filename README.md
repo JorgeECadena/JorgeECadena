@@ -8,10 +8,9 @@
 
 <h2>Programing languages/technologies I have worked with</h2>
 
-- C++
+- C/C++
 - Python
 - Java
-- C
 - JavaScript
 - PHP
 - CSS
