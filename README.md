@@ -23,8 +23,6 @@
   - Linux
   - MacOS
 - Windows
-- VSCode
-- IntelliJ IDEA
 
 <h2>Degree projects</h2>
 
