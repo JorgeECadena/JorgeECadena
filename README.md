@@ -8,14 +8,18 @@
 
 <h2>Programing languages/technologies I have worked with</h2>
 
-- C/C++
+- C++
 - Python
-- Java
 - JavaScript
+- Java
 - PHP
 - CSS
 - HTML
 - Git/GitHub
+
+<h2>I'm currently learning...</h2>
+
+- Rust for networking
 
 <h2>Environment</h2>
 
