@@ -19,7 +19,7 @@
 
 <h2>I'm currently learning...</h2>
 
-- Rust for networking
+- Rust
 
 <h2>Environment</h2>
 
