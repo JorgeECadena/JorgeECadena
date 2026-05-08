@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-- ⏱️ 20 years old
+- ⏱️ 21 years old
 - 🇲🇽 Mexican
 - 📚 Love learning new things and meeting people
 
